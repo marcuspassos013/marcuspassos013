@@ -1,4 +1,4 @@
-### Hi there 👋, Meu nome é Marcus  Passos
+### Olá pessoal 👋, Meu nome é Marcus  Passos
 #### Bem vindo(a) ao meu repositório
 ![Bem vindo(a) ao meu repositório](https://marcuspassos.netlify.app/images/logo1.png)
 
@@ -6,7 +6,7 @@ Atualmente curso Graduação em Ciência da Computação, sou apaixonado por ass
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 Estou trabalhando para melhorar esta página. 
 
 
 
