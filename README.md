@@ -15,7 +15,7 @@
 - ❓ Pergute-me tudo sobre a stack MERN e as tecnologias relacionadas a front-end e back-end.  
   
 
-- ⚡ Curiosidades sobre mim: costumo tocar guitarra pra me acalmar quando me deparo com algum bug no sistema.  
+- ⚡ Curiosidades sobre mim: costumo tocar guitarra pra me acalmar quando deparo-me com algum bug no sistema.  
   
 
 <br/>  
