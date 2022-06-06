@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Meu nome é Marcus  Passos
+#### Bem vindo(a) ao meu repositório
+![Bem vindo(a) ao meu repositório](https://marcuspassos.netlify.app/images/logo1.png)
 
-<!--
-**marcuspassos013/marcuspassos013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente curso Graduação em Ciência da Computação, sou apaixonado por assuntos relacionado a tecnologia. Valorizo o trabalho em equipe, empreendedorismo, desafios, ideias inovadoras e um bom café. Espero fazer boas parcerias seja com empresas e outros programadores para juntos contribuir-mos para um mundo melhor.
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
