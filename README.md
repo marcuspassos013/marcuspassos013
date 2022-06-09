@@ -6,7 +6,7 @@
 ### <div align="center">Eu sou Marcus Passos, um desenvolvedor full-stack freelance  👨‍💻 trabalhando remotamente desde 2021 🚀</div>  
   
 
-- 🔭 Estou trabalhando em meu [portifólio](https://marcuspassos.netlify.app/).  
+- 🔭 Estou trabalhando em meu [portfólio](https://marcuspassos.netlify.app/).  
   
 
 - 🌱 Sou estudante de Ciência da Computação e espero contribuir para melhorar o mundo por meio da tecnologia.  
@@ -15,7 +15,7 @@
 - ❓ Pergute-me tudo sobre a stack MERN e as tecnologias relacionadas a front-end e back-end.  
   
 
-- ⚡ Curiosidades sobre mim: costumo tocar guitarra pra me acalmar quando deparo-me com algum bug no sistema.  
+- ⚡ Curiosidades sobre mim: Ainda uso a tecla TAB.  
   
 
 <br/>  
