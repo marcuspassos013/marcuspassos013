@@ -13,7 +13,7 @@
 
   
 
-- ⚡ Curiosidades sobre mim: Eu era um eletricista, agora busco uma forma de iluminar minhha vida programando computadores.  
+- ⚡ Curiosidades sobre mim: Eu era um eletricista, agora busco uma forma de iluminar minha vida programando computadores.  
   
 
 <br/>  
