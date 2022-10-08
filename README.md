@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://marcuspassos.netlify.app/images/logo1.png" align="center" style="width: 100%" />
+<img src="https://marcuspassos.netlify.app/images/logo1.png" align="center" style="width: 50%" />
 </div>  
   
 
