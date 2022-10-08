@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">Eu sou Marcus Passos, um desenvolvedor iniciante. 👨‍💻 Meu sonho é poder trabalhar com tecnologia 🚀</div>  
+### <div align="center">Sejam bem-vindos ao meu GitHub. 👨‍💻 Sempre aprendendo... 🚀</div>  
   
 
 - 🔭 Estou trabalhando em meu [portfólio](https://marcuspassos.netlify.app/),conto com sua ajuda e oportunidade, pois só assim poderei crescer.  
