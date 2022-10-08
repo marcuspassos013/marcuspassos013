@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/Captura%20de%20tela%20de%202022-10-08%2017-13-36.png" />
+   <img src="" />
 </div>  
   
 
