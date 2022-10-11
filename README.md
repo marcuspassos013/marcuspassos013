@@ -1,7 +1,7 @@
-<img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/abertura.png">
+<img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/abertura.png" />
 
 ## <mark>Marcus Vinícius Passos dos Santos</mark>
-![foto-perfil]("https://github.com/marcuspassos013/marcuspassos013/blob/main/marcus.png")
+<img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/marcus.png" />
 
 ## <mark>Sejam bem-vindos ao meu GitHub!!!</mark>
 
@@ -23,7 +23,7 @@
 </div>   
   
 
-![linux]("https://github.com/marcuspassos013/marcuspassos013/blob/main/penguin.gif")
+<img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/penguin.gif" />
 
 ## Objetivo:
 > Busco por oportunidades que permitam o meu crescimento intelectual, profissional e técnico, assim também contribuindo da melhor forma à medida em que crescemos juntos. Prezo por trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender.
