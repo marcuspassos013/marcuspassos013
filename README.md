@@ -1,6 +1,7 @@
 <img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/abertura.png" />
-<black>
-## <mark>Marcus Vinícius Passos dos Santos</mark>
+
+## Marcus Vinícius Passos dos Santos
+
 <img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/marcus.png" />
 
 ## <mark>Sejam bem-vindos ao meu GitHub!!!</mark>
@@ -40,4 +41,3 @@
 |React Native    |Responsividade        |Spring Boot   | Vagrant  |
 |Vue             |Git/GitHub            |Projetos em   | Docker   |
 |Banco de Dados  |Lógica de Programação |React e Spring|AWS/DevOps|
-</black>
