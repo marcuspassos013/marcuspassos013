@@ -1,5 +1,5 @@
-<html style="background-color:black" ><img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/abertura.png" />
-
+<img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/abertura.png" />
+<black
 ## <mark>Marcus Vinícius Passos dos Santos</mark>
 <img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/marcus.png" />
 
@@ -40,4 +40,4 @@
 |React Native    |Responsividade        |Spring Boot   | Vagrant  |
 |Vue             |Git/GitHub            |Projetos em   | Docker   |
 |Banco de Dados  |Lógica de Programação |React e Spring|AWS/DevOps|
-</html>
+</black>
