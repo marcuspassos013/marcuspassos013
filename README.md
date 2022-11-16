@@ -1,8 +1,10 @@
+<div>
 <img  src="https://media4.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" />
 
 ## Marcus Vinícius Passos dos Santos
 
 <img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/marcus.png" />
+</div>  
 
 ## <mark>Sejam bem-vindos ao meu GitHub!!!</mark>
 
