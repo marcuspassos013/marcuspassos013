@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-<img width="300px" src="https://media4.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" />
+<img src="https://media4.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" eight="600px" width="900px" />
 
 ## Marcus Vinícius Passos dos Santos
 
