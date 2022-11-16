@@ -23,9 +23,10 @@
   <img alt="canva" width="65" src="https://media3.giphy.com/media/jIOZXbIEiND1rwhO6m/giphy.gif"/>  
 </div>   
   
-
+<div>
 <img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/penguin.gif" />
 <img alt="css" tittle="Java" width="65" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif"/>
+</div>  
 
 ## Objetivo:
 > Busco por oportunidades que permitam o meu crescimento intelectual, profissional e técnico, assim também contribuindo da melhor forma à medida em que crescemos juntos. Prezo por trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender.
