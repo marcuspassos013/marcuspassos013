@@ -31,7 +31,9 @@
 </div>  
 
 ## Objetivo:
-> Busco por oportunidades que permitam o meu crescimento intelectual, profissional e técnico, assim também contribuindo da melhor forma à medida em que crescemos juntos. Prezo por trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender.
+> Estou em transição de carreira, atuei por mais de 10 anos na área da construção civil como encarregado de instalações elétricas.
+> Não tenho nenhuma experiência com programação, mas tenho sede pelo conhecimento, eu tenho buscado de todas as formas melhorar a cada dia.
+> Cada código presente nesta página é motivado pelo sonho de me tornar um grande programador um dia. Comecei a programar em JavaScript, mais me apaixonei por Java, e estou disposto a fazer o possível e impossível para me aprimorar cada vez mais nessas linguagens e em seus frameworks, gostaria muito de pertencer a algum time de desenvolvimento que use essas linguagens.
 
 ### # 🤓 Minha tragetória até o presente momento:
 
