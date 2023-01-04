@@ -1,10 +1,6 @@
 <div style="display: inline_block">
 <img src="https://media4.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" width="900px" />
 
-## Marcus Vinícius Passos dos Santos
-
-<img src="https://github.com/marcuspassos013/marcuspassos013/blob/main/marcus.png" />
-</div>  
 
 ## <mark>Sejam bem-vindos ao meu GitHub!!!</mark>
 
@@ -30,10 +26,6 @@
 <img alt="css" tittle="Java" width="65" src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif"/>
 </div>  
 
-## Objetivo:
-> Estou em transição de carreira, atuei por mais de 10 anos na área da construção civil como encarregado de instalações elétricas.
-> Não tenho nenhuma experiência com programação, mas tenho sede pelo conhecimento, eu tenho buscado de todas as formas melhorar a cada dia.
-> Cada código presente nesta página é motivado pelo sonho de me tornar um grande programador um dia. Comecei a programar em JavaScript, mais me apaixonei por Java, e estou disposto a fazer o possível e impossível para me aprimorar cada vez mais nessas linguagens e em seus frameworks, gostaria muito de pertencer a algum time de desenvolvimento que use essas linguagens.
 
 ### # 🤓 Minha tragetória até o presente momento:
 
