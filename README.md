@@ -3,6 +3,8 @@
 
 
 ## <mark>Sejam bem-vindos ao meu GitHub!!!</mark>
+  > Brevemente estarei postando projetos reais...
+  > Estou estudando para isso!!!
 
 ### ### 🤓 Tecnologias e ferramentas que utilizo e estou aprendendo:
 <div style="display: inline_block"> 
